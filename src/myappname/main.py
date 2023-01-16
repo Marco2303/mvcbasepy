@@ -2,10 +2,7 @@ import sys
 
 
 def runapp(param):
-    if len(param) != 2:
-        print('\nInsert one param')
-    else:
-        print('\nParam correct')
+    print('Hello world')
 
 
 if __name__ == '__main__':
